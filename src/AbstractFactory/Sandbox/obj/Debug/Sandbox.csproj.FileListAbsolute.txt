@@ -1,0 +1,9 @@
+C:\Users\olegt\source\repos\DesignPatternsImplementation\AbstractFactory\Sandbox\bin\Debug\Sandbox.exe.config
+C:\Users\olegt\source\repos\DesignPatternsImplementation\AbstractFactory\Sandbox\bin\Debug\Sandbox.exe
+C:\Users\olegt\source\repos\DesignPatternsImplementation\AbstractFactory\Sandbox\bin\Debug\Sandbox.pdb
+C:\Users\olegt\source\repos\DesignPatternsImplementation\AbstractFactory\Sandbox\bin\Debug\Implementation.dll
+C:\Users\olegt\source\repos\DesignPatternsImplementation\AbstractFactory\Sandbox\bin\Debug\Implementation.pdb
+C:\Users\olegt\source\repos\DesignPatternsImplementation\AbstractFactory\Sandbox\obj\Debug\Sandbox.csprojResolveAssemblyReference.cache
+C:\Users\olegt\source\repos\DesignPatternsImplementation\AbstractFactory\Sandbox\obj\Debug\Sandbox.csproj.CoreCompileInputs.cache
+C:\Users\olegt\source\repos\DesignPatternsImplementation\AbstractFactory\Sandbox\obj\Debug\Sandbox.exe
+C:\Users\olegt\source\repos\DesignPatternsImplementation\AbstractFactory\Sandbox\obj\Debug\Sandbox.pdb

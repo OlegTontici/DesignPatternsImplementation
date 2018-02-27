@@ -1,0 +1,6 @@
+C:\Users\olegt\source\repos\DesignPatternsImplementation\FactoryMethod\Implementation\bin\Debug\Implementation.dll
+C:\Users\olegt\source\repos\DesignPatternsImplementation\FactoryMethod\Implementation\bin\Debug\Implementation.pdb
+C:\Users\olegt\source\repos\DesignPatternsImplementation\FactoryMethod\Implementation\obj\Debug\Implementation.csprojResolveAssemblyReference.cache
+C:\Users\olegt\source\repos\DesignPatternsImplementation\FactoryMethod\Implementation\obj\Debug\Implementation.csproj.CoreCompileInputs.cache
+C:\Users\olegt\source\repos\DesignPatternsImplementation\FactoryMethod\Implementation\obj\Debug\Implementation.dll
+C:\Users\olegt\source\repos\DesignPatternsImplementation\FactoryMethod\Implementation\obj\Debug\Implementation.pdb
