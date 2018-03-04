@@ -4,8 +4,6 @@ using Implementation.Factories;
 using Sandbox.CarAssemblyLine;
 using Sandbox.Models.Car;
 using System;
-using System.Linq;
-using System.Reflection;
 
 namespace Sandbox
 {
@@ -14,7 +12,7 @@ namespace Sandbox
         static void Main(string[] args)
         {
             ICarPartsFactories carPartsFactories = new CarPartsFactories();
-            ICarPartsFactory carPartsFactory = carPartsFactories.GetFactory(CarPartsFactoriesEnum.SUVPartsFactory);
+            ICarPartsFactory carPartsFactory = carPartsFactories.GetFactory("CoupePartsFactory");
             ICarAssemblyLine carAssemblyLine = new CarAssemblyLine.CarAssemblyLine(carPartsFactory);
 
             ICar car = carAssemblyLine.GetCar();
