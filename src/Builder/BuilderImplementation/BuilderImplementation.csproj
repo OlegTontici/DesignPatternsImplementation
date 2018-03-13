@@ -40,15 +40,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Builders\CarBuilder.cs" />
-    <Compile Include="Builders\CoupeBuilder.cs" />
-    <Compile Include="Builders\SportCupeBuilder.cs" />
-    <Compile Include="Builders\SUVBuilder.cs" />
+    <Compile Include="Builders\PredifinedSequence\ICarBuilder.cs" />
+    <Compile Include="Builders\PredifinedSequence\SequencialCarBuilder.cs" />
+    <Compile Include="Builders\RegularBuilder\CarBuilder.cs" />
+    <Compile Include="Builders\RegularBuilder\CoupeBuilder.cs" />
+    <Compile Include="Builders\RegularBuilder\SportCupeBuilder.cs" />
+    <Compile Include="Builders\RegularBuilder\SUVBuilder.cs" />
     <Compile Include="CarAssembler.cs" />
     <Compile Include="Car\Coupe.cs" />
     <Compile Include="Car\ICar.cs" />
     <Compile Include="Car\SUV.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

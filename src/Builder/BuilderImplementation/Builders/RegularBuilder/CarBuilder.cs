@@ -1,6 +1,6 @@
 ﻿using BuilderImplementation.Car;
 
-namespace BuilderImplementation.Builders
+namespace BuilderImplementation.Builders.RegularBuilder
 {
     public class CarBuilder
     {

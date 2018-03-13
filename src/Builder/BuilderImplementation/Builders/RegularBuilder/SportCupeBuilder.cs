@@ -1,11 +1,11 @@
 ﻿using BuilderImplementation.Car;
 
-namespace BuilderImplementation.Builders
+namespace BuilderImplementation.Builders.RegularBuilder
 {
     // different representation for 'Coupe'
-    public class SportCupeBuilder : CarBuilder
+    public class SportCoupeBuilder : CarBuilder
     {
-        public SportCupeBuilder()
+        public SportCoupeBuilder()
         {
             _car = new Coupe();
         }

@@ -1,2 +1,5 @@
 src/.vs/
 src/AbstractFactory/Sandbox/obj/
+src/Builder/Sandbox/bin/
+src/Builder/BuilderImplementation/obj/
+src/Builder/Sandbox/obj/
