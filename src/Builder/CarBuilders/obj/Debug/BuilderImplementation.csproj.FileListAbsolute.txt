@@ -1,0 +1,8 @@
+D:\Projects\DesignPatternsImplementation\src\Builder\BuilderImplementation\bin\Debug\BuilderImplementation.dll
+D:\Projects\DesignPatternsImplementation\src\Builder\BuilderImplementation\bin\Debug\BuilderImplementation.pdb
+D:\Projects\DesignPatternsImplementation\src\Builder\BuilderImplementation\obj\Debug\BuilderImplementation.csprojResolveAssemblyReference.cache
+D:\Projects\DesignPatternsImplementation\src\Builder\BuilderImplementation\obj\Debug\BuilderImplementation.csproj.CoreCompileInputs.cache
+D:\Projects\DesignPatternsImplementation\src\Builder\BuilderImplementation\obj\Debug\BuilderImplementation.dll
+D:\Projects\DesignPatternsImplementation\src\Builder\BuilderImplementation\obj\Debug\BuilderImplementation.pdb
+D:\Projects\DesignPatternsImplementation\src\Builder\BuilderImplementation\bin\Debug\Sandbox.Contracts.dll
+D:\Projects\DesignPatternsImplementation\src\Builder\BuilderImplementation\bin\Debug\Sandbox.Contracts.pdb

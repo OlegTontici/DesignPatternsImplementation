@@ -49,7 +49,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Implementation\CarFactories.csproj">
+    <ProjectReference Include="..\..\CarFactories\CarFactories.csproj">
       <Project>{09464892-3B87-43F8-8907-D3E49CC71E76}</Project>
       <Name>CarFactories</Name>
     </ProjectReference>

@@ -49,8 +49,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\BuilderImplementation\CarBuilders.csproj">
-      <Project>{5c9c9c9a-ff22-4927-a739-c71fd94d2f9d}</Project>
+    <ProjectReference Include="..\..\CarBuilders\CarBuilders.csproj">
+      <Project>{5C9C9C9A-FF22-4927-A739-C71FD94D2F9D}</Project>
       <Name>CarBuilders</Name>
     </ProjectReference>
     <ProjectReference Include="..\Sandbox.Contracts\Sandbox.Contracts.csproj">
