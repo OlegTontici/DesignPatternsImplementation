@@ -1,5 +1,5 @@
-﻿using Implementation.Enums;
-using Implementation.Factories;
+﻿using Implementation.Factories;
+using Sandbox.Contracts;
 using System;
 using System.Linq;
 using System.Reflection;
@@ -23,18 +23,18 @@ namespace Implementation
             throw new ArgumentException($"'{factoryName}' type does not exist");
         }
 
-        public ICarPartsFactory GetFactory(CarPartsFactoriesEnum factoryType)
+        public ICarPartsFactory GetFactory(CarPartsFactoriesTypes factoryType)
         {
             ICarPartsFactory carPartsFactory;
             switch (factoryType)
             {
-                case CarPartsFactoriesEnum.CoupePartsFactory:
+                case CarPartsFactoriesTypes.CoupePartsFactory:
                     carPartsFactory = new CoupePartsFactory();
                     break;
-                case CarPartsFactoriesEnum.SUVPartsFactory:
+                case CarPartsFactoriesTypes.SUVPartsFactory:
                     carPartsFactory = new SUVPartsFactory();
                     break;
-                case CarPartsFactoriesEnum.TruckPartsFactory:
+                case CarPartsFactoriesTypes.TruckPartsFactory:
                     carPartsFactory = new TruckPartsFactory();
                     break;
                 default:

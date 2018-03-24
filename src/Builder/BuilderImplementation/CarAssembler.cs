@@ -1,13 +1,12 @@
-﻿using BuilderImplementation.Builders.RegularBuilder;
-using BuilderImplementation.Car;
+﻿using Sandbox.Contracts;
 
 namespace BuilderImplementation
 {
     public class CarAssembler
     {
-        CarBuilder _carbuilder;
+        CarBuilderBase _carbuilder;
 
-        public CarAssembler(CarBuilder carbuilder)
+        public CarAssembler(CarBuilderBase carbuilder)
         {
             _carbuilder = carbuilder;
         }

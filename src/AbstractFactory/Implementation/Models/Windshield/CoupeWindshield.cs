@@ -1,4 +1,6 @@
-﻿namespace Implementation.Models.Windshield
+﻿using Sandbox.Contracts;
+
+namespace Implementation.Models.Windshield
 {
     public class CoupeWindshield : ICarWindshield
     {

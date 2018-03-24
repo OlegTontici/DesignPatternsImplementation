@@ -1,0 +1,6 @@
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\DP.FactoryMethod.Sandbox\Sandbox.Contracts\bin\Debug\Sandbox.Contracts.dll
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\DP.FactoryMethod.Sandbox\Sandbox.Contracts\bin\Debug\Sandbox.Contracts.pdb
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\DP.FactoryMethod.Sandbox\Sandbox.Contracts\obj\Debug\Sandbox.Contracts.csprojResolveAssemblyReference.cache
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\DP.FactoryMethod.Sandbox\Sandbox.Contracts\obj\Debug\Sandbox.Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\DP.FactoryMethod.Sandbox\Sandbox.Contracts\obj\Debug\Sandbox.Contracts.dll
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\DP.FactoryMethod.Sandbox\Sandbox.Contracts\obj\Debug\Sandbox.Contracts.pdb

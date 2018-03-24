@@ -1,8 +1,9 @@
 ﻿using Implementation.FactoryMethodAsHookForChildClasses.Engine;
+using Sandbox.Contracts.FactoryMethodAsHookForChildClasses;
 
 namespace Implementation.FactoryMethodAsHookForChildClasses
 {
-    public class CarBase
+    public class CarBase : ICar
     {
         public IEngine Engine { get; set; }
 

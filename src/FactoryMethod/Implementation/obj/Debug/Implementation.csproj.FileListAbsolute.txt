@@ -4,3 +4,11 @@ C:\Users\olegt\source\repos\DesignPatternsImplementation\FactoryMethod\Implement
 C:\Users\olegt\source\repos\DesignPatternsImplementation\FactoryMethod\Implementation\obj\Debug\Implementation.csproj.CoreCompileInputs.cache
 C:\Users\olegt\source\repos\DesignPatternsImplementation\FactoryMethod\Implementation\obj\Debug\Implementation.dll
 C:\Users\olegt\source\repos\DesignPatternsImplementation\FactoryMethod\Implementation\obj\Debug\Implementation.pdb
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\Implementation\bin\Debug\Implementation.dll
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\Implementation\bin\Debug\Implementation.pdb
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\Implementation\obj\Debug\Implementation.csprojResolveAssemblyReference.cache
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\Implementation\obj\Debug\Implementation.csproj.CoreCompileInputs.cache
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\Implementation\obj\Debug\Implementation.dll
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\Implementation\obj\Debug\Implementation.pdb
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\Implementation\bin\Debug\Sandbox.Contracts.dll
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\Implementation\bin\Debug\Sandbox.Contracts.pdb

@@ -1,9 +1,10 @@
 ﻿using BuilderImplementation.Car;
+using Sandbox.Contracts;
 
 namespace BuilderImplementation.Builders.RegularBuilder
 {
     // different representation for 'Coupe'
-    public class SportCoupeBuilder : CarBuilder
+    public class SportCoupeBuilder : CarBuilderBase
     {
         public SportCoupeBuilder()
         {

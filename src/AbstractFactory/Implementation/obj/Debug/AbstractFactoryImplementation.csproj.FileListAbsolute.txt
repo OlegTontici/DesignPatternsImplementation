@@ -4,3 +4,11 @@ C:\Users\olegt\source\repos\DesignPatternsImplementation\AbstractFactory\Impleme
 C:\Users\olegt\source\repos\DesignPatternsImplementation\AbstractFactory\Implementation\obj\Debug\AbstractFactoryImplementation.csproj.CoreCompileInputs.cache
 C:\Users\olegt\source\repos\DesignPatternsImplementation\AbstractFactory\Implementation\obj\Debug\Implementation.dll
 C:\Users\olegt\source\repos\DesignPatternsImplementation\AbstractFactory\Implementation\obj\Debug\Implementation.pdb
+D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Implementation\bin\Debug\Implementation.dll
+D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Implementation\bin\Debug\Implementation.pdb
+D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Implementation\obj\Debug\AbstractFactoryImplementation.csprojResolveAssemblyReference.cache
+D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Implementation\obj\Debug\AbstractFactoryImplementation.csproj.CoreCompileInputs.cache
+D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Implementation\obj\Debug\Implementation.dll
+D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Implementation\obj\Debug\Implementation.pdb
+D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Implementation\bin\Debug\Sanbox.Contracts.dll
+D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Implementation\bin\Debug\Sanbox.Contracts.pdb

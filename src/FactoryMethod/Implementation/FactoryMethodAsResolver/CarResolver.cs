@@ -1,4 +1,5 @@
 ﻿using Implementation.FactoryMethodAsResolver.Car;
+using Sandbox.Contracts.FactoryMethodAsResolver;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,7 +7,7 @@ using System.Reflection;
 
 namespace Implementation.FactoryMethodAsResolver
 {
-    public class CarResolver
+    public class CarResolver : ICarResolver
     {
         public IEnumerable<ICar> ResolveByPrice(double moneyAmount)
         {

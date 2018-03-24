@@ -1,8 +1,9 @@
 ﻿using BuilderImplementation.Car;
+using Sandbox.Contracts;
 
 namespace BuilderImplementation.Builders.RegularBuilder
 {
-    public class SUVBuilder : CarBuilder
+    public class SUVBuilder : CarBuilderBase
     {
         public SUVBuilder()
         {

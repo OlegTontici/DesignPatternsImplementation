@@ -1,5 +1,5 @@
-﻿using System;
-using BuilderImplementation.Car;
+﻿using BuilderImplementation.Car;
+using Sandbox.Contracts;
 
 namespace BuilderImplementation.Builders.PredifinedSequence
 {

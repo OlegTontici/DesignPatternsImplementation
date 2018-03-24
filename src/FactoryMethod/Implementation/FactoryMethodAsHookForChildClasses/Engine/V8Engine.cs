@@ -1,4 +1,6 @@
-﻿namespace Implementation.FactoryMethodAsHookForChildClasses.Engine
+﻿using Sandbox.Contracts.FactoryMethodAsHookForChildClasses;
+
+namespace Implementation.FactoryMethodAsHookForChildClasses.Engine
 {
     public class V8Engine : IEngine
     {

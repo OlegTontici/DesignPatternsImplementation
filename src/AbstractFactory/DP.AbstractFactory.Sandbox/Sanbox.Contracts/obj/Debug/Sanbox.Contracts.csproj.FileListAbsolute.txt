@@ -1,0 +1,6 @@
+D:\Projects\DesignPatternsImplementation\src\Sanbox.Contracts\bin\Debug\Sanbox.Contracts.dll
+D:\Projects\DesignPatternsImplementation\src\Sanbox.Contracts\bin\Debug\Sanbox.Contracts.pdb
+D:\Projects\DesignPatternsImplementation\src\Sanbox.Contracts\obj\Debug\Sanbox.Contracts.csprojResolveAssemblyReference.cache
+D:\Projects\DesignPatternsImplementation\src\Sanbox.Contracts\obj\Debug\Sanbox.Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\DesignPatternsImplementation\src\Sanbox.Contracts\obj\Debug\Sanbox.Contracts.dll
+D:\Projects\DesignPatternsImplementation\src\Sanbox.Contracts\obj\Debug\Sanbox.Contracts.pdb

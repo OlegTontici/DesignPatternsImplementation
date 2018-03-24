@@ -1,4 +1,5 @@
 ﻿using Implementation.FactoryMethodAsHookForChildClasses.Engine;
+using Sandbox.Contracts.FactoryMethodAsHookForChildClasses;
 
 namespace Implementation.FactoryMethodAsHookForChildClasses
 {

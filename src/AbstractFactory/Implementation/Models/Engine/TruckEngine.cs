@@ -1,4 +1,6 @@
-﻿namespace Implementation.Models.Engine
+﻿using Sandbox.Contracts;
+
+namespace Implementation.Models.Engine
 {
     class TruckEngine : ICarEngine
     {
