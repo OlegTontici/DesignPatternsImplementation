@@ -1,6 +1,6 @@
 ﻿namespace Sandbox.Contracts
 {
-    public class CarBuilderBase
+    public abstract class CarBuilderBase
     {
         protected ICar _car;
 

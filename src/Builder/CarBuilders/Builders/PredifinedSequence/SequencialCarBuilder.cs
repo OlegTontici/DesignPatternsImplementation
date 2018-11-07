@@ -43,7 +43,7 @@ namespace BuilderImplementation.Builders.PredifinedSequence
 
         public IGearBoxMount MountWheels()
         {
-            _car.Wheels = "4 Wheels...of may be 3 :D";
+            _car.Wheels = "4 Wheels...or may be 3 :D";
             return this;
         }
     }
