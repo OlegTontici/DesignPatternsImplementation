@@ -1,0 +1,9 @@
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\CarFactories\bin\Debug\Implementation.dll
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\CarFactories\bin\Debug\Implementation.pdb
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\CarFactories\bin\Debug\Sandbox.Contracts.dll
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\CarFactories\bin\Debug\Sandbox.Contracts.pdb
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\CarFactories\obj\Debug\CarFactories.csprojAssemblyReference.cache
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\CarFactories\obj\Debug\CarFactories.csproj.CoreCompileInputs.cache
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\CarFactories\obj\Debug\CarFactories.csproj.CopyComplete
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\CarFactories\obj\Debug\Implementation.dll
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\CarFactories\obj\Debug\Implementation.pdb

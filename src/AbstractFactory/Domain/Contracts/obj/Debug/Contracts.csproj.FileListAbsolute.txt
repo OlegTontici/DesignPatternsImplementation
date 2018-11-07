@@ -1,0 +1,5 @@
+D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Domain\Contracts\bin\Debug\Contracts.dll
+D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Domain\Contracts\bin\Debug\Contracts.pdb
+D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Domain\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Domain\Contracts\obj\Debug\Contracts.dll
+D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Domain\Contracts\obj\Debug\Contracts.pdb

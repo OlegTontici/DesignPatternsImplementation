@@ -4,13 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{09464892-3B87-43F8-8907-D3E49CC71E76}</ProjectGuid>
+    <ProjectGuid>{525ED73E-952F-4222-A6FA-C7EECEA349B6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Implementation</RootNamespace>
-    <AssemblyName>Implementation</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <RootNamespace>CarPartsFactories</RootNamespace>
+    <AssemblyName>CarPartsFactories</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -40,20 +41,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FactoryMethodAsHookForChildClasses\CarBase.cs" />
-    <Compile Include="FactoryMethodAsHookForChildClasses\SUV.cs" />
-    <Compile Include="FactoryMethodAsHookForChildClasses\Engine\RegularEngine.cs" />
-    <Compile Include="FactoryMethodAsHookForChildClasses\Engine\V8Engine.cs" />
-    <Compile Include="FactoryMethodAsResolver\CarResolver.cs" />
-    <Compile Include="FactoryMethodAsResolver\Car\Coupe.cs" />
-    <Compile Include="FactoryMethodAsResolver\Car\SUV.cs" />
-    <Compile Include="FactoryMethodAsResolver\Car\Truck.cs" />
+    <Compile Include="CarPartsFactory.cs" />
+    <Compile Include="CoupePartsFactory.cs" />
+    <Compile Include="SUVPartsFactory.cs" />
+    <Compile Include="TruckPartsFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DP.FactoryMethod.Sandbox\Sandbox.Contracts\Sandbox.Contracts.csproj">
-      <Project>{b9338277-befe-42c7-8280-5954f1fe8d3f}</Project>
-      <Name>Sandbox.Contracts</Name>
+    <ProjectReference Include="..\Contracts\Contracts.csproj">
+      <Project>{62a610cf-79bb-44ef-b46d-63c47f5ef1bc}</Project>
+      <Name>Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entities\Entities.csproj">
+      <Project>{59e5ce1a-8945-4286-99c8-d4030daaf8df}</Project>
+      <Name>Entities</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -11,7 +11,7 @@ namespace Sandbox
         static void Main(string[] args)
         {
             // Hook(intervention point) for child classes example
-            Contracts.FactoryMethodAsHookForChildClasses.ICar car = new SUVCar();
+            Contracts.FactoryMethodAsHookForChildClasses.ICar car = new SUV();
             Console.WriteLine($"Engine volume :{car.Engine.Volume} \nEngine cilinders amount:{car.Engine.CilindersAmount}");
 
             // Resolver example

@@ -4,15 +4,17 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{09464892-3B87-43F8-8907-D3E49CC71E76}</ProjectGuid>
-    <OutputType>Library</OutputType>
-    <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Implementation</RootNamespace>
-    <AssemblyName>Implementation</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <ProjectGuid>{4794CC41-CB47-414C-BB36-5B9933CA4C64}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Sandbox</RootNamespace>
+    <AssemblyName>Sandbox</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -22,6 +24,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -40,20 +43,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FactoryMethodAsHookForChildClasses\CarBase.cs" />
-    <Compile Include="FactoryMethodAsHookForChildClasses\SUV.cs" />
-    <Compile Include="FactoryMethodAsHookForChildClasses\Engine\RegularEngine.cs" />
-    <Compile Include="FactoryMethodAsHookForChildClasses\Engine\V8Engine.cs" />
-    <Compile Include="FactoryMethodAsResolver\CarResolver.cs" />
-    <Compile Include="FactoryMethodAsResolver\Car\Coupe.cs" />
-    <Compile Include="FactoryMethodAsResolver\Car\SUV.cs" />
-    <Compile Include="FactoryMethodAsResolver\Car\Truck.cs" />
+    <Compile Include="CarAssemblyLine\CarAssemblyLine.cs" />
+    <Compile Include="CarAssemblyLine\ICarAssemblyLine.cs" />
+    <Compile Include="Models\Car\Car.cs" />
+    <Compile Include="Models\Car\ICar.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DP.FactoryMethod.Sandbox\Sandbox.Contracts\Sandbox.Contracts.csproj">
-      <Project>{b9338277-befe-42c7-8280-5954f1fe8d3f}</Project>
-      <Name>Sandbox.Contracts</Name>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\CarPartsFactories\CarPartsFactories.csproj">
+      <Project>{525ed73e-952f-4222-a6fa-c7eecea349b6}</Project>
+      <Name>CarPartsFactories</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Domain\Contracts\Contracts.csproj">
+      <Project>{62a610cf-79bb-44ef-b46d-63c47f5ef1bc}</Project>
+      <Name>Contracts</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

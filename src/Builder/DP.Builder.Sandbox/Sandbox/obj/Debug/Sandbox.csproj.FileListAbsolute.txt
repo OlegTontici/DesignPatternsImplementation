@@ -7,7 +7,6 @@ D:\Projects\DesignPatternsImplementation\src\Builder\Sandbox\obj\Debug\Sandbox.c
 D:\Projects\DesignPatternsImplementation\src\Builder\Sandbox\obj\Debug\Sandbox.csproj.CoreCompileInputs.cache
 D:\Projects\DesignPatternsImplementation\src\Builder\Sandbox\obj\Debug\Sandbox.exe
 D:\Projects\DesignPatternsImplementation\src\Builder\Sandbox\obj\Debug\Sandbox.pdb
-D:\Projects\DesignPatternsImplementation\src\Builder\DP.Builder.Sandbox\Sandbox\obj\Debug\Sandbox.csprojResolveAssemblyReference.cache
 D:\Projects\DesignPatternsImplementation\src\Builder\DP.Builder.Sandbox\Sandbox\obj\Debug\Sandbox.csproj.CoreCompileInputs.cache
 D:\Projects\DesignPatternsImplementation\src\Builder\DP.Builder.Sandbox\Sandbox\obj\Debug\Sandbox.exe
 D:\Projects\DesignPatternsImplementation\src\Builder\DP.Builder.Sandbox\Sandbox\obj\Debug\Sandbox.pdb
@@ -18,3 +17,5 @@ D:\Projects\DesignPatternsImplementation\src\Builder\DP.Builder.Sandbox\Sandbox\
 D:\Projects\DesignPatternsImplementation\src\Builder\DP.Builder.Sandbox\Sandbox\bin\Debug\Sandbox.Contracts.dll
 D:\Projects\DesignPatternsImplementation\src\Builder\DP.Builder.Sandbox\Sandbox\bin\Debug\BuilderImplementation.pdb
 D:\Projects\DesignPatternsImplementation\src\Builder\DP.Builder.Sandbox\Sandbox\bin\Debug\Sandbox.Contracts.pdb
+D:\Projects\DesignPatternsImplementation\src\Builder\DP.Builder.Sandbox\Sandbox\obj\Debug\Sandbox.csprojAssemblyReference.cache
+D:\Projects\DesignPatternsImplementation\src\Builder\DP.Builder.Sandbox\Sandbox\obj\Debug\Sandbox.csproj.CopyComplete
