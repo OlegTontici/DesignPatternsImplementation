@@ -1,8 +1,0 @@
-D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Implementation\bin\Debug\Implementation.dll
-D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Implementation\bin\Debug\Implementation.pdb
-D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Implementation\bin\Debug\Sanbox.Contracts.dll
-D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Implementation\bin\Debug\Sanbox.Contracts.pdb
-D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Implementation\obj\Debug\CarPartsFactories.csprojResolveAssemblyReference.cache
-D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Implementation\obj\Debug\CarPartsFactories.csproj.CoreCompileInputs.cache
-D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Implementation\obj\Debug\Implementation.dll
-D:\Projects\DesignPatternsImplementation\src\AbstractFactory\Implementation\obj\Debug\Implementation.pdb
