@@ -1,6 +1,7 @@
 ﻿using Contracts;
 using Contracts.CarPartsFactories;
-using Entities;
+using Entities.Engine;
+using Entities.Windshield;
 
 namespace CarPartsFactories
 {
@@ -8,12 +9,12 @@ namespace CarPartsFactories
     {
         public ICarEngine MakeEngine()
         {
-            return new Engine(2.0, 4);
+            return new CoupeEngine(2.0, 4);
         }
 
         public ICarWindshield MakeWindshield()
         {
-            return new Windshield(1.8, 0.7, 0.3);
+            return new CoupeWindshield(1.8, 0.7, 0.3);
         }
     }
 }

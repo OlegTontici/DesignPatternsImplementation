@@ -1,13 +1,13 @@
 ﻿using Contracts;
 
-namespace Entities
+namespace Entities.Engine
 {
-    public class Engine : ICarEngine
+    public class TruckEngine : ICarEngine
     {
         public double Volume { get; private set; }
         public int CilindersAmount { get; private set; }
 
-        public Engine(double volume, int cilindersAmount)
+        public TruckEngine(double volume, int cilindersAmount)
         {
             Volume = volume;
             CilindersAmount = cilindersAmount;

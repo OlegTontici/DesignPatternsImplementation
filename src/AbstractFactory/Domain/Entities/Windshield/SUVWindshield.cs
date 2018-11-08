@@ -1,14 +1,14 @@
 ﻿using Contracts;
 
-namespace Entities
+namespace Entities.Windshield
 {
-    public class Windshield : ICarWindshield
+    public class SUVWindshield : ICarWindshield
     {
         public double Width { get; private set; }
-        public double Height { get; private  set; }
-        public double Thickness { get; private  set; }
+        public double Height { get; private set; }
+        public double Thickness { get; private set; }
 
-        public Windshield(
+        public SUVWindshield(
             double width,
             double height,
             double thickness)
