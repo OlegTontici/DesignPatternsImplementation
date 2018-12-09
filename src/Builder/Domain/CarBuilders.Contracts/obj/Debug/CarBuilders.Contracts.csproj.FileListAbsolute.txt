@@ -1,0 +1,9 @@
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\CarBuilders.Contracts\bin\Debug\CarBuilders.Contracts.dll
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\CarBuilders.Contracts\bin\Debug\CarBuilders.Contracts.pdb
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\CarBuilders.Contracts\bin\Debug\Entities.Contracts.dll
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\CarBuilders.Contracts\bin\Debug\Entities.Contracts.pdb
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\CarBuilders.Contracts\obj\Debug\CarBuilders.Contracts.csprojAssemblyReference.cache
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\CarBuilders.Contracts\obj\Debug\CarBuilders.Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\CarBuilders.Contracts\obj\Debug\CarBuilders.Contracts.csproj.CopyComplete
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\CarBuilders.Contracts\obj\Debug\CarBuilders.Contracts.dll
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\CarBuilders.Contracts\obj\Debug\CarBuilders.Contracts.pdb

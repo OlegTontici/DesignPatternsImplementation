@@ -22,18 +22,18 @@ namespace CarPartsFactories
             throw new ArgumentException($"'{factoryName}' type does not exist");
         }
 
-        public ICarPartsFactory GetFactory(CarPartsFactoriesTypes factoryType)
+        public ICarPartsFactory GetFactory(CarType carType)
         {
             ICarPartsFactory carPartsFactory;
-            switch (factoryType)
+            switch (carType)
             {
-                case CarPartsFactoriesTypes.CoupePartsFactory:
+                case CarType.Coupe:
                     carPartsFactory = new CoupePartsFactory();
                     break;
-                case CarPartsFactoriesTypes.SUVPartsFactory:
+                case CarType.SUV:
                     carPartsFactory = new SUVPartsFactory();
                     break;
-                case CarPartsFactoriesTypes.TruckPartsFactory:
+                case CarType.Truck:
                     carPartsFactory = new TruckPartsFactory();
                     break;
                 default:

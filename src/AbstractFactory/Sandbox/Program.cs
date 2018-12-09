@@ -11,7 +11,7 @@ namespace Sandbox
         static void Main(string[] args)
         {
             ICarPartsFactories carPartsFactories = new CarPartsFactory();
-            ICarPartsFactory carPartsFactory = carPartsFactories.GetFactory(CarPartsFactoriesTypes.TruckPartsFactory);
+            ICarPartsFactory carPartsFactory = carPartsFactories.GetFactory(CarType.Truck);
             ICarAssemblyLine carAssemblyLine = new CarAssemblyLine.CarAssemblyLine(carPartsFactory);
 
             ICar car = carAssemblyLine.GetCar();

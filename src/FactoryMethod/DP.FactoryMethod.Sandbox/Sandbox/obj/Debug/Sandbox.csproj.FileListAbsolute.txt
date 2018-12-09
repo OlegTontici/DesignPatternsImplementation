@@ -14,9 +14,6 @@ D:\Projects\DesignPatternsImplementation\src\FactoryMethod\Sandbox\obj\Debug\San
 D:\Projects\DesignPatternsImplementation\src\FactoryMethod\Sandbox\obj\Debug\Sandbox.csproj.CoreCompileInputs.cache
 D:\Projects\DesignPatternsImplementation\src\FactoryMethod\Sandbox\obj\Debug\Sandbox.exe
 D:\Projects\DesignPatternsImplementation\src\FactoryMethod\Sandbox\obj\Debug\Sandbox.pdb
-D:\Projects\DesignPatternsImplementation\src\FactoryMethod\DP.FactoryMethod.Sandbox\Sandbox\obj\Debug\Sandbox.csproj.CoreCompileInputs.cache
-D:\Projects\DesignPatternsImplementation\src\FactoryMethod\DP.FactoryMethod.Sandbox\Sandbox\obj\Debug\Sandbox.exe
-D:\Projects\DesignPatternsImplementation\src\FactoryMethod\DP.FactoryMethod.Sandbox\Sandbox\obj\Debug\Sandbox.pdb
 D:\Projects\DesignPatternsImplementation\src\FactoryMethod\DP.FactoryMethod.Sandbox\Sandbox\bin\Debug\Sandbox.exe.config
 D:\Projects\DesignPatternsImplementation\src\FactoryMethod\DP.FactoryMethod.Sandbox\Sandbox\bin\Debug\Sandbox.exe
 D:\Projects\DesignPatternsImplementation\src\FactoryMethod\DP.FactoryMethod.Sandbox\Sandbox\bin\Debug\Sandbox.pdb
@@ -25,4 +22,7 @@ D:\Projects\DesignPatternsImplementation\src\FactoryMethod\DP.FactoryMethod.Sand
 D:\Projects\DesignPatternsImplementation\src\FactoryMethod\DP.FactoryMethod.Sandbox\Sandbox\bin\Debug\Implementation.pdb
 D:\Projects\DesignPatternsImplementation\src\FactoryMethod\DP.FactoryMethod.Sandbox\Sandbox\bin\Debug\Sandbox.Contracts.pdb
 D:\Projects\DesignPatternsImplementation\src\FactoryMethod\DP.FactoryMethod.Sandbox\Sandbox\obj\Debug\Sandbox.csprojAssemblyReference.cache
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\DP.FactoryMethod.Sandbox\Sandbox\obj\Debug\Sandbox.csproj.CoreCompileInputs.cache
 D:\Projects\DesignPatternsImplementation\src\FactoryMethod\DP.FactoryMethod.Sandbox\Sandbox\obj\Debug\Sandbox.csproj.CopyComplete
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\DP.FactoryMethod.Sandbox\Sandbox\obj\Debug\Sandbox.exe
+D:\Projects\DesignPatternsImplementation\src\FactoryMethod\DP.FactoryMethod.Sandbox\Sandbox\obj\Debug\Sandbox.pdb

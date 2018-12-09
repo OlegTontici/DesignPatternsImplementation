@@ -1,0 +1,6 @@
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\Entities.Contracts\bin\Debug\Entities.Contracts.dll
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\Entities.Contracts\bin\Debug\Entities.Contracts.pdb
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\Entities.Contracts\obj\Debug\Entities.Contracts.csprojAssemblyReference.cache
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\Entities.Contracts\obj\Debug\Entities.Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\Entities.Contracts\obj\Debug\Entities.Contracts.dll
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\Entities.Contracts\obj\Debug\Entities.Contracts.pdb

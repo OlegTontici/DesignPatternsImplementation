@@ -1,0 +1,9 @@
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\Entities\bin\Debug\Entities.dll
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\Entities\bin\Debug\Entities.pdb
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\Entities\bin\Debug\Entities.Contracts.dll
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\Entities\bin\Debug\Entities.Contracts.pdb
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\Entities\obj\Debug\Entities.dll
+D:\Projects\DesignPatternsImplementation\src\Builder\Domain\Entities\obj\Debug\Entities.pdb

@@ -3,6 +3,6 @@
     public interface ICarPartsFactories
     {
         ICarPartsFactory GetFactory(string factoryName);
-        ICarPartsFactory GetFactory(CarPartsFactoriesTypes factoryType);
+        ICarPartsFactory GetFactory(CarType factoryType);
     }
 }

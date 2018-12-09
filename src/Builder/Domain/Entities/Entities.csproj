@@ -4,13 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{09464892-3B87-43F8-8907-D3E49CC71E76}</ProjectGuid>
+    <ProjectGuid>{6DDFD583-3AFC-46F6-8947-535A51D220E0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Implementation</RootNamespace>
-    <AssemblyName>Implementation</AssemblyName>
+    <RootNamespace>Entities</RootNamespace>
+    <AssemblyName>Entities</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -40,20 +41,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FactoryMethodAsHookForChildClasses\Car.cs" />
-    <Compile Include="FactoryMethodAsHookForChildClasses\SUV.cs" />
-    <Compile Include="FactoryMethodAsHookForChildClasses\Engine\RegularEngine.cs" />
-    <Compile Include="FactoryMethodAsHookForChildClasses\Engine\V8Engine.cs" />
-    <Compile Include="FactoryMethodAsResolver\CarResolver.cs" />
-    <Compile Include="FactoryMethodAsResolver\Car\Coupe.cs" />
-    <Compile Include="FactoryMethodAsResolver\Car\SUV.cs" />
-    <Compile Include="FactoryMethodAsResolver\Car\Truck.cs" />
+    <Compile Include="Coupe.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SUV.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DP.FactoryMethod.Sandbox\Sandbox.Contracts\Sandbox.Contracts.csproj">
-      <Project>{b9338277-befe-42c7-8280-5954f1fe8d3f}</Project>
-      <Name>Sandbox.Contracts</Name>
+    <ProjectReference Include="..\Entities.Contracts\Entities.Contracts.csproj">
+      <Project>{7a9a9e4d-8942-4002-ae0f-f611fe872336}</Project>
+      <Name>Entities.Contracts</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
